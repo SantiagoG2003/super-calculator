@@ -14,6 +14,7 @@ while playing:
     user_input = int(input())
 
     if user_input == 1:
-        print("La suma es...")
+        suma = num1+num2
+        print("La suma es...", suma)
     elif user_input == 2:
         print("La resta es...")
