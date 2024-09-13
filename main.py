@@ -22,4 +22,7 @@ while playing:
     elif user_input == 3:
         multiplicar= num1*num2
         print("La multiplicación es...", multiplicar)
+    elif user_input == 4:
+        dividir = num1 / num2
+        print("La división es...", dividir)
 
