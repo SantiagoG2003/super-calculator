@@ -19,4 +19,7 @@ while playing:
     elif user_input == 2:
         resta = num1-num2 
         print("La resta es...", resta)
-        
+    elif user_input == 3:
+        multiplicar= num1*num2
+        print("La multiplicación es...", multiplicar)
+
